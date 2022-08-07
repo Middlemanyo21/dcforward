@@ -3,7 +3,7 @@ from config import Config
 
 class Translation(object):
   START_TXT = """<b>Hi  {}💖</b>
-<i>I'm @drchetancreations an advanced forward bot with some useful features!
+<i>I'm @official_helping_hand an advanced forward bot with some useful features!
 
 Check /help menu to know more 😼 </i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
@@ -22,7 +22,7 @@ Check /help menu to know more 😼 </i>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>Forward Bot</code>
-<b>Credit :</b> <code>@DRCHETANCREATIONS</code>
+<b>Credit :</b> <code>@official_helping_hand</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
